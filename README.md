@@ -21,7 +21,7 @@ To get started with Rameses, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Rameses.git
+   git clone https://github.com/jrbiltmore/Rameses.git
    cd Rameses
    ```
 
